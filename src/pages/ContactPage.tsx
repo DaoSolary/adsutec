@@ -142,8 +142,8 @@ export function ContactPage() {
               <div className="mt-8 rounded-lg bg-slate-50 p-6">
                 <h3 className="font-semibold text-slate-900">Horário de Atendimento</h3>
                 <p className="mt-2 text-sm text-slate-600">
-                  Segunda a Sexta: 8h00 - 18h00<br />
-                  Sábado: 9h00 - 13h00
+                  Segunda a Sexta: 8h00 - 17h00<br />
+                  
                 </p>
               </div>
             </div>

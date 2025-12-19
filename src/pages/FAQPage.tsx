@@ -14,11 +14,11 @@ const faqs = [
       },
       {
         question: 'Há quanto tempo a empresa atua no mercado?',
-        answer: 'A Adsu-Tec foi fundada em 2009 e possui mais de 15 anos de experiência no mercado de tecnologia.',
+        answer: 'A Adsu-Tec foi fundada em 2017 .',
       },
       {
         question: 'Onde a empresa está localizada?',
-        answer: 'Nossa sede está localizada em Luanda, Angola, mas atendemos clientes de todo o país e internacionalmente.',
+        answer: 'Nossa sede está localizada em Luanda, Angola, mas atendemos clientes de todo o país.',
       },
     ],
   },

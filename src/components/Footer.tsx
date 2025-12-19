@@ -31,24 +31,7 @@ export function Footer() {
               >
                 <Facebook className="h-5 w-5" />
               </a>
-              <a
-                href="https://twitter.com"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-slate-400 hover:text-white transition-colors"
-                aria-label="Twitter"
-              >
-                <Twitter className="h-5 w-5" />
-              </a>
-              <a
-                href="https://linkedin.com"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-slate-400 hover:text-white transition-colors"
-                aria-label="LinkedIn"
-              >
-                <Linkedin className="h-5 w-5" />
-              </a>
+           
               <a
                 href="https://instagram.com"
                 target="_blank"
@@ -150,12 +133,6 @@ export function Footer() {
               © {currentYear} Adsu-Tec. Todos os direitos reservados.
             </p>
             <div className="flex space-x-6 text-sm">
-              <Link to="/politica-privacidade" className="hover:text-white transition-colors">
-                Política de Privacidade
-              </Link>
-              <Link to="/termos-uso" className="hover:text-white transition-colors">
-                Termos de Uso
-              </Link>
               <Link to="/faq" className="hover:text-white transition-colors">
                 FAQ
               </Link>
