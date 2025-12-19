@@ -33,7 +33,7 @@ export function Footer() {
               </a>
            
               <a
-                href="https://instagram.com"
+                href="https://www.instagram.com/adsutec/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-slate-400 hover:text-white transition-colors"
